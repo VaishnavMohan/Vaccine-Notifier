@@ -1,1 +1,2 @@
-# Vaccine-Notifier
+# cowin-vaccine-flutter
+
